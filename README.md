@@ -19,15 +19,24 @@ call SingIn with username and password only.
 The token should include the Name and UserName (not password) 
 You  will  also  create  Movies  collection  to  store  information  about  movies.    All  endpoints  will  be 
 protected with the JWT token received by a signin call.  
+
+
 Requirements 
 Create a collection in MongoDB to hold information about movies 
+
 • Each entry should contain the following 
+
 o Title 
+
 o Year released 
+
 o Genre  (Action,  Adventure,  Comedy,  Drama,  Fantasy,  Horror,  Mystery,  Thriller, 
 Western) 
+
 o Array of three actors that were in the film 
 § ActorName 
+
+
 § CharacterName 
 o The movie collection should have at least five movies 
 • Create a NodeJS Web API to interact with your database 
