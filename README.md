@@ -1,4 +1,5 @@
 # CSC3916_HW3
+Please use the link below to use React App for login
 https://hwtest-1.herokuapp.com/#/signin
 
 
