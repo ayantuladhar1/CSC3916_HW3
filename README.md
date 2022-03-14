@@ -14,9 +14,10 @@ Assignment Three
 Purpose 
 The purpose of this assignment is to get comfortable working with a NoSQL database (MongoDB).  
 For  this  assignment  you  will  create  a  Users  collection  to  store  users  for  your  signup  and  signin 
-methods.  You will pass Username, Name and Password as part of signup.  To get a token you will 
-call SingIn with username and password only.  The token should include the Name and UserName 
-(not password) 
+methods.
+You will pass Username, Name and Password as part of signup.  To get a token you will 
+call SingIn with username and password only.
+The token should include the Name and UserName (not password) 
 You  will  also  create  Movies  collection  to  store  information  about  movies.    All  endpoints  will  be 
 protected with the JWT token received by a signin call.  
 Requirements 
