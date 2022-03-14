@@ -13,8 +13,7 @@ https://hwtest-1.herokuapp.com/#/signin
 
 
 Assignment Three 
- 
-Purpose 
+  
 The purpose of this assignment is to get comfortable working with a NoSQL database (MongoDB).  
 For  this  assignment  you  will  create  a  Users  collection  to  store  users  for  your
 signup  and  signin methods. You will pass Username, Name and Password as part of signup.  To get a token you will 
